@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">"An enthusiastic software developer hailing from India, proficient in the MERN stack and deeply interested in cybersecurity. I possess a fervent dedication to crafting impactful projects with inherent potential and intrigue. Explore my GitHub repository to discover valuable insights and innovative solutions. Let's continue fostering development and embracing the journey with a smile </>"</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="4rjunkum4r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4rjunkum4r&label=Profile%20views&color=0e75b6&style=flat" alt="4rjunkum4r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rjunkum4r" alt="4rjunkum4r" /></a> </p>
 
